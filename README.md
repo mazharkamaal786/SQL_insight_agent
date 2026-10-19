@@ -21,9 +21,8 @@ Python, MySQL, PyMySQL, MCP (Python SDK), Jupyter Notebook, Claude Desktop
 
 ## Demo
 
-![Claude answering a question](screenshots/claude_answer.png)
-![Results matching MySQL Workbench](screenshots/workbench_match.png)
-![Write request blocked](screenshots/safety_test.png)
+![Claude answering a question](screenshot/claude_answer.png)
+![Another question answered from MySQL](screenshot/claude_answer_2.png)
 
 ## Setup
 
