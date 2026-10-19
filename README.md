@@ -21,8 +21,8 @@ Python, MySQL, PyMySQL, MCP (Python SDK), Jupyter Notebook, Claude Desktop
 
 ## Demo
 
-![Claude answering a question](screenshot/claude_answer.png)
-![Another question answered from MySQL](screenshot/claude_answer_2.png)
+![Claude answering a question](question_database.png)
+![Another question answered from MySQL](question_database_2.png)
 
 ## Setup
 
